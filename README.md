@@ -1,7 +1,7 @@
 ## Hi I am Sherin Mon Biju 👋
 
 # 💫 About Me:
-🚀DevOps Engineer at 2 cloud<br>🔧 Dedicated to teaching and mentoring students in Cloud Computing and DevOps<br>WS Cloud Partner Certified | Skilled Cloud Computing Facilitator<br>🛠️ Technical Skills:<br>🌱Cloud & DevOps: AWS Cloud, Terraform, Docker, Jenkins, ArgoCD, Docker Hub<br>🌱Version Control & CI/CD: Git, GitHub, GitHub Actions<br>📚 Passionate about delivering hands-on training and simplifying complex cloud concepts for learners<br>💻 Currently working with Cloud Computing Instractor Head<br>🔗 Let's connect: www.linkedin.com/in/sherin-mon-biju-750b7b288
+🚀Head of Cloud Computing @Cozmek Pvt Ltd | Cloud Computing Facilitator | DevOps & MLOps Trainer | DevOps Engineer | Certified in DevOps & AWS <br>🔧 Dedicated to teaching and mentoring students in Cloud Computing and DevOps<br>WS Cloud Partner Certified | Skilled Cloud Computing Facilitator<br>🛠️ Technical Skills:<br>🌱Cloud & DevOps: AWS Cloud, Terraform, Docker, Jenkins, ArgoCD, Docker Hub<br>🌱Version Control & CI/CD: Git, GitHub, GitHub Actions<br>📚 Passionate about delivering hands-on training and simplifying complex cloud concepts for learners<br>💻 Currently working with Cloud Computing Instractor Head<br>🔗 Let's connect: www.linkedin.com/in/sherin-mon-biju-750b7b288
 
 
 ## 🌐 Socials:
