@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sherin Mon Biju</h1>
-<h3 align="center">🚀 DevOps Engineer | Cloud Computing Head | Trainer</h3>
+<h3 align="center">🚀 DevOps Engineer | Head of Cloud Computing | Trainer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/sherin-mon-biju-750b7b288">
-    <img src="https://img.shields.io/badge/LinkedIn-Sherin-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://instagram.com/sherinnnn_____">
     <img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram">
@@ -12,12 +12,35 @@
 
 ---
 
+## 🔘 🚀 Quick Access (Click Buttons)
+
+<p align="center">
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Live-success?style=for-the-badge&logo=vercel">
+  </a>
+  
+  <a href="https://github.com/sherin-mon">
+    <img src="https://img.shields.io/badge/💻 GitHub-Repositories-black?style=for-the-badge&logo=github">
+  </a>
+  
+  <a href="https://your-devops-project.com">
+    <img src="https://img.shields.io/badge/⚙️ DevOps Project-blue?style=for-the-badge&logo=jenkins">
+  </a>
+  
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/📩 Contact-Me-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+---
+
 ## 💫 About Me
-- 🚀 DevOps Engineer & Head of Cloud Computing @ **Cozmek Pvt Ltd**
+
+- 🚀 DevOps Engineer & Head of Cloud Computing @ Cozmek Pvt Ltd  
 - 🎓 Cloud Computing Facilitator & DevOps / MLOps Trainer  
-- ☁️ AWS & DevOps Certified Professional  
-- 🧠 Passionate about simplifying complex cloud concepts  
-- 👨‍🏫 Focused on hands-on, real-world training  
+- ☁️ AWS & DevOps Certified  
+- 🧠 Passionate about teaching & simplifying cloud concepts  
+- 👨‍🏫 Hands-on training with real-world projects  
 
 ---
 
@@ -33,7 +56,7 @@
 ### 🔁 CI/CD & Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
-![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=github-actions)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
 
 ### 💻 Programming & Frameworks
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
@@ -42,15 +65,9 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?style=for-the-badge&logo=node.js)
 
-### 🗄️ Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
-![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache)
-
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sherin-mon&show_icons=true&theme=tokyonight" />
@@ -64,17 +81,29 @@
 ---
 
 ## 🎯 What I Do
-✔️ Build & Deploy Cloud Infrastructure (AWS + Terraform)  
-✔️ CI/CD Pipeline Implementation (Jenkins, GitHub Actions)  
-✔️ Containerization & Orchestration (Docker, ArgoCD)  
-✔️ Train Students in Real-World DevOps Projects  
+
+✔️ Build scalable AWS cloud infrastructure  
+✔️ Design CI/CD pipelines (Jenkins, GitHub Actions)  
+✔️ Docker & container-based deployments  
+✔️ Train students with real DevOps projects  
 
 ---
 
 ## 🔥 Current Focus
-- 🚀 Scaling production-grade DevOps pipelines  
-- ☁️ Multi-cloud (AWS + Azure)  
+
+- ☁️ AWS + Azure Multi-cloud  
+- 🚀 Production-grade DevOps pipelines  
 - 🤖 MLOps integration  
+
+---
+
+## 🌐 Portfolio Preview
+
+<p align="center">
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Click%20Here%20to%20View%20Portfolio-000?style=for-the-badge&logo=firefox">
+  </a>
+</p>
 
 ---
 
