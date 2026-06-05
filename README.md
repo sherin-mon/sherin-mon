@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sherin Mon Biju</h1>
 <h3 align="center">🚀 DevOps Engineer | Head of Cloud Computing | Trainer</h3>
 
+<p align="center">
+  <a href="https://linkedin.com/in/sherin-mon-biju-750b7b288">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://instagram.com/sherinnnn_____">
+    <img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram">
+  </a>
+</p>
 
 
 
